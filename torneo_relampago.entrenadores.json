@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "655551625138ed0a2ba2298e"
+  },
+  "nombre": "Juan",
+  "Apellido": "Urrueta",
+  "Edad": 24,
+  "Telefono": {
+    "$numberLong": "3205678903"
+  },
+  "Equipo": "Los Chavales",
+  "Direccion": "Calle 57 cc # 24 - 56"
+},
+{
+  "_id": {
+    "$oid": "655551625138ed0a2ba2298f"
+  },
+  "nombre": "Juanes",
+  "Apellido": "Vélez",
+  "Edad": 25,
+  "Telefono": {
+    "$numberLong": "3215678903"
+  },
+  "Equipo": "Los Chavales Inferior",
+  "Direccion": "Calle 57 cc # 24 - 56"
+},
+{
+  "_id": {
+    "$oid": "655551625138ed0a2ba22990"
+  },
+  "nombre": "Andrés",
+  "Apellido": "Vélez",
+  "Edad": 28,
+  "Telefono": {
+    "$numberLong": "3225678903"
+  },
+  "Equipo": "Los Galaxis Inferior",
+  "Direccion": "Calle 57 cc # 24 - 56"
+},
+{
+  "_id": {
+    "$oid": "655551625138ed0a2ba22991"
+  },
+  "nombre": "Felipe",
+  "Apellido": "Contreras",
+  "Edad": 29,
+  "Telefono": {
+    "$numberLong": "3215678903"
+  },
+  "Equipo": "Los Galaxis",
+  "Direccion": "Calle 57 cc # 24 - 56"
+},
+{
+  "_id": {
+    "$oid": "655551625138ed0a2ba22992"
+  },
+  "nombre": "David",
+  "Apellido": "Contreras",
+  "Edad": 30,
+  "Telefono": {
+    "$numberLong": "3045678903"
+  },
+  "Equipo": "Los Galaxis",
+  "Direccion": "Calle 57 cc # 24 - 56"
+}]

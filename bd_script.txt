@@ -27,11 +27,11 @@ luego de validar el correcto estado de las colecciones las llenados con datos re
 
 Emepezamos con los deportistas
 
-db.deportistas.insertOne({"nombre": "Juan", "Apellido": "Urrueta", "Edad": 24, "Telefono": 3205678903, "Equipo" : "Los Chavales", "Direccion": "Calle 57 cc # 24 - 56", "documento", 3445657})
-db.deportistas.insertOne({"nombre": "Pedro", "Apellido": "Benítez", "Edad": 34, "Telefono": 3205678903, "Equipo" : "Los Galaxis", "Direccion": "Calle 52 cc # 24 - 56"}, "documento", 9445650)
-db.deportistas.insertOne({"nombre": "Arnol", "Apellido": "Gómez", "Edad": 44, "Telefono": 3205678903, "Equipo" : "Los Galaxis", "Direccion": "Calle 51 cc # 27 - 36"}, "documento", 2445657)
-db.deportistas.insertOne({"nombre": "Andrés", "Apellido": "Ortiz", "Edad": 20, "Telefono": 3205678904, "Equipo" : "Los Chavales", "Direccion": "Calle 21 cc # 27 - 36"}, "documento", 7445657)
-db.deportistas.insertOne({"nombre": "Adrian", "Apellido": "Vélez", "Edad": 19, "Telefono": 3205378904, "Equipo" : "Los Chavales", "Direccion": "Calle 61 cc # 27 - 36"}, "documento", 9445657)
+db.deportistas.insertOne({"nombre": "Juan", "Apellido": "Urrueta", "Edad": 24, "Telefono": 3205678903, "Equipo" : "Los Chavales", "Direccion": "Calle 57 cc # 24 - 56", "documento": 3445657})
+db.deportistas.insertOne({"nombre": "Pedro", "Apellido": "Benítez", "Edad": 34, "Telefono": 3205678903, "Equipo" : "Los Galaxis", "Direccion": "Calle 52 cc # 24 - 56", "documento": 9445650})
+db.deportistas.insertOne({"nombre": "Arnol", "Apellido": "Gómez", "Edad": 44, "Telefono": 3205678903, "Equipo" : "Los Galaxis", "Direccion": "Calle 51 cc # 27 - 36", "documento":2445657})
+db.deportistas.insertOne({"nombre": "Andrés", "Apellido": "Ortiz", "Edad": 20, "Telefono": 3205678904, "Equipo" : "Los Chavales", "Direccion": "Calle 21 cc # 27 - 36", "documento": 7445657})
+db.deportistas.insertOne({"nombre": "Adrian", "Apellido": "Vélez", "Edad": 19, "Telefono": 3205378904, "Equipo" : "Los Chavales", "Direccion": "Calle 61 cc # 27 - 36", "documento": 9445657})
 
 validamos el estado de los datos insertados
 

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6555516e5138ed0a2ba22993"
+  },
+  "equipo": "Los Galaxis",
+  "puntos": 20,
+  "encuentros": 7,
+  "Sanciones": 1,
+  "jugadores": 11,
+  "anotaciones": 8
+},
+{
+  "_id": {
+    "$oid": "6555516e5138ed0a2ba22994"
+  },
+  "equipo": "Los Galaxis inferior",
+  "puntos": 19,
+  "encuentros": 7,
+  "Sanciones": 2,
+  "jugadores": 11,
+  "anotaciones": 7
+},
+{
+  "_id": {
+    "$oid": "6555516e5138ed0a2ba22995"
+  },
+  "equipo": "Los chavales inferior",
+  "puntos": 16,
+  "encuentros": 7,
+  "Sanciones": 0,
+  "jugadores": 11,
+  "anotaciones": 5
+},
+{
+  "_id": {
+    "$oid": "6555516e5138ed0a2ba22996"
+  },
+  "equipo": "Los Chavales ",
+  "puntos": 15,
+  "encuentros": 7,
+  "Sanciones": 1,
+  "jugadores": 11,
+  "anotaciones": 3
+},
+{
+  "_id": {
+    "$oid": "6555516e5138ed0a2ba22997"
+  },
+  "equipo": "Los Leones FC",
+  "puntos": 7,
+  "encuentros": 5,
+  "Sanciones": 1,
+  "jugadores": 11,
+  "anotaciones": 3
+}]

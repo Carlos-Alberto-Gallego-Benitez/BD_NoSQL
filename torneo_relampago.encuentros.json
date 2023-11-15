@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "655551555138ed0a2ba22989"
+  },
+  "equipo1": "Los chavales",
+  "equipo2": "Los Galaxis",
+  "fecha": "12/11/2023",
+  "hora": "12:30",
+  "lugar": "Estadio el arenero"
+},
+{
+  "_id": {
+    "$oid": "655551555138ed0a2ba2298a"
+  },
+  "equipo1": "Los chavales",
+  "equipo2": "Los Galaxis",
+  "fecha": "2/11/2023",
+  "hora": "4:30",
+  "lugar": "Estadio el palma seca"
+},
+{
+  "_id": {
+    "$oid": "655551555138ed0a2ba2298b"
+  },
+  "equipo1": "Los chavales",
+  "equipo2": "Los Galaxis",
+  "fecha": "5/11/2023",
+  "hora": "7:30",
+  "lugar": "Estadio el palma seca"
+},
+{
+  "_id": {
+    "$oid": "655551555138ed0a2ba2298c"
+  },
+  "equipo1": "Los chavales",
+  "equipo2": "Los Galaxis",
+  "fecha": "7/11/2023",
+  "hora": "5:30",
+  "lugar": "Estadio el palma seca"
+},
+{
+  "_id": {
+    "$oid": "655551555138ed0a2ba2298d"
+  },
+  "equipo1": "Los chavales",
+  "equipo2": "Los Galaxis",
+  "fecha": "9/11/2023",
+  "hora": "1:30",
+  "lugar": "Estadio el palma seca"
+}]

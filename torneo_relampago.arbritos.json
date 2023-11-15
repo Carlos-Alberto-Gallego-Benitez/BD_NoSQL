@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "655551445138ed0a2ba22984"
+  },
+  "nombre": "Adrian",
+  "Apellido": "Vélez",
+  "Edad": 19,
+  "Telefono": {
+    "$numberLong": "3205378904"
+  },
+  "precio": 4566,
+  "email": "Los Chavales",
+  "Direccion": "Calle 61 cc # 27 - 36"
+},
+{
+  "_id": {
+    "$oid": "655551445138ed0a2ba22985"
+  },
+  "nombre": "Carlos",
+  "Apellido": "Gallego",
+  "Edad": 22,
+  "Telefono": {
+    "$numberLong": "3205378404"
+  },
+  "precio": 2566,
+  "email": "mailarbitro@ibero.edu.co",
+  "Direccion": "Calle 61 cc # 27 - 36"
+},
+{
+  "_id": {
+    "$oid": "655551445138ed0a2ba22986"
+  },
+  "nombre": "Juanes",
+  "Apellido": "Romero",
+  "Edad": 32,
+  "Telefono": {
+    "$numberLong": "3045378404"
+  },
+  "precio": 6566,
+  "email": "mailarbitro@ibero.edu.co",
+  "Direccion": "Calle 61 cc # 27 - 36"
+},
+{
+  "_id": {
+    "$oid": "655551445138ed0a2ba22987"
+  },
+  "nombre": "Manuel",
+  "Apellido": "Vélez",
+  "Edad": 26,
+  "Telefono": {
+    "$numberLong": "3045376404"
+  },
+  "precio": 6566,
+  "email": "mailarbitro@ibero.edu.co",
+  "Direccion": "Calle 61 cc # 27 - 36"
+},
+{
+  "_id": {
+    "$oid": "655551445138ed0a2ba22988"
+  },
+  "nombre": "Alonso",
+  "Apellido": "Romero",
+  "Edad": 18,
+  "Telefono": {
+    "$numberLong": "3045376414"
+  },
+  "precio": 16566,
+  "email": "mailarbitro@ibero.edu.co",
+  "Direccion": "Calle 61 cc # 27 - 36"
+}]
